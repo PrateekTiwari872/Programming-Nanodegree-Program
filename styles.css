@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+img{
+  width:300px;
+  border-style:solid;
+}
+li{
+   list-style:none;
+ }
+.dark{
+  font-weight: bold;
+  padding:5px;
+}
+
+.lab{
+  border:1px solid black;
+  padding:5px;
+}
+
+title{
+  text-align:center;
+}
+
+body{
+  background-color:white;
+}
